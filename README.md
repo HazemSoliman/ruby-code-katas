@@ -1,2 +1,2 @@
-# ruby-code-katas
-Solving code katas in ruby programming language.
+# Ruby code katas
+### solving code wars code katas in ruby
